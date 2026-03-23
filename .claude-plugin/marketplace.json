@@ -1,0 +1,16 @@
+{
+  "name": "orc",
+  "owner": {
+    "name": "jbj338033"
+  },
+  "plugins": [
+    {
+      "name": "orc",
+      "source": "./",
+      "description": "universal AI meta-orchestrator with multi-model integration, 17 specialized agents, Ralph loop, and Agent Teams",
+      "version": "1.0.0",
+      "category": "productivity",
+      "tags": ["multi-agent", "orchestration", "multi-model", "ralph", "teams"]
+    }
+  ]
+}

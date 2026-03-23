@@ -1,0 +1,4 @@
+node_modules/
+.orc/
+*.local
+.DS_Store

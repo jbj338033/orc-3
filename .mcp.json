@@ -1,0 +1,11 @@
+{
+  "mcpServers": {
+    "orc": {
+      "command": "node",
+      "args": ["${CLAUDE_PLUGIN_ROOT}/dist/mcp/server.mjs"],
+      "env": {
+        "ORC_PLUGIN_ROOT": "${CLAUDE_PLUGIN_ROOT}"
+      }
+    }
+  }
+}
